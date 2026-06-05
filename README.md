@@ -9,7 +9,7 @@ Building open, reproducible research.
 - **[interp-probe-eval](https://github.com/avilog/interp-probe-eval)** — evaluating interpretability probes: do they recover the *concept*, or a *shortcut*? Controllable synthetic ground truth + shortcut-controlled evaluation.
 
 ### Interests
-**Explainability & interpretability** of AI · **operations research & optimization** (incl. multi-objective model selection — latency / accuracy / privacy) · **NLP / LLMs** — evaluation, governance, and reliability in regulated/enterprise settings.
+**Explainability & interpretability** of AI · **operations research & optimization**· **NLP / LLMs** — evaluation, governance, and reliability in regulated/enterprise settings.
 
 ---
 
