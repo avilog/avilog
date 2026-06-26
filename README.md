@@ -3,11 +3,6 @@
 **AI Tech Lead — LLMs / NLP, evaluation & explainability, optimization. MSc CS.**
 Building open, reproducible research.
 
-### Open research (EleutherAI SOAR 2026 prep)
-- **[reasoning-faithfulness-eval](https://github.com/avilog/reasoning-faithfulness-eval)** — do reasoning models reach the right answer for the *wrong reason*? A clean / hinted / misleadingly-hinted benchmark that scores the answer and the chain-of-thought's faithfulness separately.
-- **[agentic-compliance-eval](https://github.com/avilog/agentic-compliance-eval)** — when an LLM agent *says* it will follow a rule, does it actually call rule-compliant tools? Stated-vs-enacted compliance evaluation.
-- **[interp-probe-eval](https://github.com/avilog/interp-probe-eval)** — evaluating interpretability probes: do they recover the *concept*, or a *shortcut*? Controllable synthetic ground truth + shortcut-controlled evaluation.
-
 ### Interests
 **Explainability & interpretability** of AI · **operations research & optimization**· **NLP / LLMs** — evaluation, governance, and reliability in regulated/enterprise settings.
 
