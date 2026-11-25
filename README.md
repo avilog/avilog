@@ -1,10 +1,10 @@
 # Avi Levin
 
-**AI Tech Lead — LLMs / NLP, evaluation & explainability, optimization. MSc CS.**
+**AI Tech Lead — LLMs, evaluation & explainability. MSc CS.**
 Building open, reproducible research.
 
 ### Interests
-**Explainability & interpretability** of AI · **operations research & optimization**· **NLP / LLMs** — evaluation, governance, and reliability in regulated/enterprise settings.
+**Explainability & interpretability** of AI · **LLMs** — evaluation, governance, and reliability in regulated/enterprise settings.
 
 ---
 
